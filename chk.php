@@ -144,7 +144,7 @@ CURLOPT_PROXY, 'http://p.webshare.io:80',
 CURLOPT_PROXYUSERPWD, 'xiohqgys-rotate:e7za5rqdv3rn',
 
 #curl_setopt($ch, CURLOPT_PROXY, $poxySocks4);
-CURLOPT_HTTPGET => true,
+CURLOPT_HTTPGET = true,
 ]);
 $ip1 = curl_exec($ch);
 curl_close($ch);
