@@ -141,7 +141,7 @@ curl_setopt_array($ch, [
 
 CURLOPT_RETURNTRANSFER => true,
 CURLOPT_PROXY, 'http://p.webshare.io:80',
-CURLOPT_PROXYUSERPWD, 'brvrynbz-rotate:hwgvht3zn0j8',
+CURLOPT_PROXYUSERPWD, 'xiohqgys-rotate:e7za5rqdv3rn',
 
 #curl_setopt($ch, CURLOPT_PROXY, $poxySocks4);
 CURLOPT_HTTPGET => true,
